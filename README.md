@@ -12,9 +12,3 @@ This is a simple web application that generates random passwords based on user p
 
 You can view a live demo of the app [here](https://vaibhavupadhyayy.github.io/password/).
 
-## Screenshots
-
-![Screenshot 1](/screenshots/password.png)
-*Screenshot of the app generating a password.*
-
-
