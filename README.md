@@ -14,7 +14,7 @@ You can view a live demo of the app [here](https://vaibhavupadhyayy.github.io/pa
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](/screenshots/password.png)
 *Screenshot of the app generating a password.*
 
 
